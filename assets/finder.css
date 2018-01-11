@@ -1,0 +1,96 @@
+* {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+  background: url("https://images3.alphacoders.com/853/thumb-1920-85305.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: #eeeeee;
+}
+img {
+  padding-top: 25 px;
+  padding-left: 40px;
+}
+
+.gifSection div {
+  display: inline-block;
+  font-size: 20px;
+  text-align: center;
+}
+
+/*Input*/
+
+
+input.form-control.search {
+  width: 50em;
+  border-radius: 10px;
+  background-color: #eeeeee;
+}
+
+#submit-btn {
+  background-color: #eeeeee;
+  margin-top: -1px;
+}
+
+#btn-section {
+  width: 15%;
+  height: 100%;
+  background-color: #eeeeee;
+  border-radius: 10px;
+  font-size: 2vw;
+}
+
+.input-group {
+  margin: 30px 0 0 50px;
+}
+
+
+/*Gif Buttons */
+
+.gif {
+  margin: 20px auto;
+  height: 50px;
+  width: 100%;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.gifStart {
+  margin-top: 100px;
+  text-align: center;
+}
+
+/*Social Links*/
+
+.icons {
+  text-align: center;
+}
+
+.icons li {
+  display: inline-block;
+  margin: 5px;
+}
+
+.github {
+  height: 10em;
+}
+
+.linkedin {
+  height: 8em;
+}
+button,  .btn{
+	margin: 10px;
+}
+.imgStyle{
+	padding: 25px;
+}
+p {
+  position: relative;
+  top: 260px;
+  color: white;
+  padding-bottom: 10px;
+}
